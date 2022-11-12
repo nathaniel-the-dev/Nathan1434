@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel
-- 👀 I’m a full stack web developer
-- 🌱 I’m currently practicing web design and frontend development
+- 👀 I’m a full-stack web and mobile developer
+- 🌱 I’m always looking for opportunites to challenge and improve my skills
 
 <!---
 Nathan1434/Nathan1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
